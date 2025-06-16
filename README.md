@@ -20,12 +20,6 @@ A powerful and easy-to-use web tool to generate **realistic fake datasets** for 
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](https://i.imgur.com/U9djLVf.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 🖥️ Requirements
@@ -100,7 +94,7 @@ You can export your data to:
 ## ✍️ Author
 
 **Vaibhav Rawat**  
-[LinkedIn](https://linkedin.com/in/vaibhavrawatdata) | [GitHub](https://github.com/yourusername)
+Access website here: https://fakecsvgenerator.streamlit.app/
 
 ---
 
